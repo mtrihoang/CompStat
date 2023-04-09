@@ -1,8 +1,8 @@
-# Performance Comparison between Model Selection Methods | Computational Statistics | Summer Semester 2022
+# Model Selection Methods | Computational Statistics | Summer Semester 2022
 
 by Minh Tri Hoang | Master of Science in Economics - University of Bonn
 
-This is the final project on Computational Statistics. The course was taught by [Professor Lena Janys](https://sites.google.com/site/janyslena/home?authuser=0) (University of Bonn).
+This is my final project on Computational Statistics. The course was taught by [Professor Lena Janys](https://sites.google.com/site/janyslena/home?authuser=0).
 
 To get started, please clone the repository with
 
